@@ -1,0 +1,173 @@
+
+
+
+/**********************************************
+
+***********************************************/
+
+
+header {
+	background-color: pink;
+	margin: 0 0 0 0;
+	padding: 10px 0 0 0;
+	width: 100%;
+	height: 200px
+	float: left;
+	
+	
+
+	
+
+}
+
+h1 {
+	font-size: 2.4em;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: 'Abril Fatface', cursive;
+	color:#fff;
+}
+
+h2 {
+	font-size: 100%;
+	text-align: center;
+	margin-top: 0.5px;
+	color:#fff;
+	padding: 5px 5px;
+}
+
+nav ul {
+	
+	text-align: center;
+	position: relative; left: -10px;
+	
+	
+	
+}
+
+nav ul li {
+	
+	font-family: arial;
+	text-decoration: none;
+	list-style: none;
+	color: #b9b9b9;
+	display: inline;
+	padding: 10px 15px; 
+	color: pink;
+	
+	
+	
+}
+
+nav ul .selected {
+	color: rgba(208, 170, 177, 0.49);
+}
+
+
+nav ul li:visited{
+	color: #fff;
+	
+}
+
+
+	nav ul li:hover {
+	border-bottom:  solid pink;
+}
+	
+
+
+
+a {
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+footer {
+	
+	font-family: none; 
+	color: grey;
+	clear: both;
+	background: black;
+	margin: 0px;
+	padding: 0.03%;
+	text-indent: 2%;
+	position: relative;
+}
+
+#gallery {
+	
+	list-style: none;
+}
+
+#gallery li {
+	float: left;
+	width: 45%;
+	margin: 5px;
+	
+}
+
+#gallery li a p{
+	
+	font-family: 'Hind Vadodara', sans-serif;
+	font-size: 0.8em;
+	margin: 0px;
+	color: #b9b9b9;
+	
+}
+
+#wrapper {
+	
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+}
+
+img{
+	max-width: 100%;
+}
+
+html {
+	
+background: white;	
+}
+
+/**********************************************
+CONTACTS
+***********************************************/
+
+
+.contact-para {
+	
+	font-family: 'Hind Vadodara', sans-serif;
+	color: #b9b9b9;
+}
+
+.contact-heading {
+	font-family: 'Hind Vadodara', sans-serif;
+	font-weight: bold;
+	color: #b9b9b9;
+}
+
+.contact-contacts {
+	font-family: 'Hind Vadodara', sans-serif;
+	color: #b9b9b9;
+	display: block;
+	margin:0 0 200px;
+}
+	
+.contact-contacts  {
+    list-style: none;
+	
+}
+
+
+.contact-contacts li a {
+	color: #b9b9b9;
+}
+    
+
+
+
+
